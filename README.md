@@ -4,4 +4,4 @@ The goal is to analyze the performance of the reporting airline to improve fight
 
 Firstly, it can be found a Jupyter Notebook with the description of the needs and requierements of the dashboard, which are later executed in a python file using a dash application mainly based on HTML and plotly to  display the gathered data.
 
-Also, it can be found the screenshots of the functional dashboard.
+Also, they can be found the screenshots of the functional dashboard.
